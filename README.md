@@ -1,6 +1,11 @@
 # 우아한테크코스 4기 활동 기록 ✨
 우아한테크코스 4기에서 활동한 내용들을 기록합니다 🖋
 
+## 🎉 Level 5
+> 2022.10.31 ~ 2022.11.25
+
+📖 [리얼 찐막 면접 스터디(2022-11-01 ~ 2022-11-24)](https://github.com/woowacourse-study/2022-real-jjin-mak)
+
 ## 🌳 Level 4
 > 2022.08.30 ~ 2022.10.28
 
@@ -17,6 +22,11 @@
 |레거시 코드 리팩터링 1단계|2022-10-18 ~ 2022-11-08|[jwp-refactoring](https://github.com/kyukong/jwp-refactoring/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/269)|
 |레거시 코드 리팩터링 2단계||[jwp-refactoring](https://github.com/kyukong/jwp-refactoring/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/325)|
 |레거시 코드 리팩터링 3단계||[jwp-refactoring](https://github.com/kyukong/jwp-refactoring/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/412)|
+|실습||[jwp-hands-on](https://github.com/kyukong/jwp-hands-on)||
+|JPA 실습 1단계||[jwp-qna](https://github.com/kyukong/jwp-qna/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-qna/pull/23)|
+|JPA 실습 2단계||[jwp-qna](https://github.com/kyukong/jwp-qna/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-qna/pull/42)|
+
+🖋 [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/kyukong/woowa-writing-4/blob/kyukong/level4.md)
 
 ## 🪴 Level 3
 > 2022.06.28 ~ 2022.08.19
