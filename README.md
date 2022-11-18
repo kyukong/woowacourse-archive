@@ -79,6 +79,6 @@
 |JDBC 라이브러리 구현하기 1단계|2022-10-04 ~ 2022-10-14|[jwp-dashboard-jdbc](https://github.com/kyukong/jwp-dashboard-jdbc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/114)|
 |JDBC 라이브러리 구현하기 2단계||[jwp-dashboard-jdbc](https://github.com/kyukong/jwp-dashboard-jdbc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/143)|
 |JDBC 라이브러리 구현하기 3단계||[jwp-dashboard-jdbc](https://github.com/kyukong/jwp-dashboard-jdbc/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/192)|
-|레거시 코드 리팩터링 1단계|2022-10-18 ~ 2022-11-08|[wp-refactoring](https://github.com/kyukong/jwp-refactoring/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/269)|
-|레거시 코드 리팩터링 2단계||[wp-refactoring](https://github.com/kyukong/jwp-refactoring/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/325)|
-|레거시 코드 리팩터링 3단계||[wp-refactoring](https://github.com/kyukong/jwp-refactoring/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/412)|
+|레거시 코드 리팩터링 1단계|2022-10-18 ~ 2022-11-08|[jwp-refactoring](https://github.com/kyukong/jwp-refactoring/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/269)|
+|레거시 코드 리팩터링 2단계||[jwp-refactoring](https://github.com/kyukong/jwp-refactoring/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/325)|
+|레거시 코드 리팩터링 3단계||[jwp-refactoring](https://github.com/kyukong/jwp-refactoring/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/412)|
